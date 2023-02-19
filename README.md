@@ -62,6 +62,7 @@ Simple Random Sampling and Proportionate Stratified Sampling also performed well
 Mean Score of the accuracy of models for the samples is:
 
 UnderSample | OverSample | SimpleSample | DispropStratSample | PropStratSample
+--- | --- | --- | --- | ---
 0.620 | 0.953 | 0.9333 | 0.640 | 0.920
 
 #### Note:
