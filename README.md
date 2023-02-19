@@ -49,7 +49,7 @@ Models used for this data:
 4. Support Vector Machine
 5. Decision Tree Classifier
 
-The models were trained on the samples and then their performance was evaluated using test data which was sampled from data such that it contains atleast 3 records from minority class for purpose of testing.
+The models were trained on the samples and then their performance was evaluated using test data which was sampled from data such that it contains atleast 2 records from minority class for purpose of testing.
 
 ---
 
@@ -63,7 +63,7 @@ Mean Score of the accuracy of models for the samples is:
 
 UnderSample | OverSample | SimpleSample | DispropStratSample | PropStratSample
 --- | --- | --- | --- | ---
-0.620 | 0.953 | 0.9333 | 0.640 | 0.920
+0.620 | 0.953 | 0.933 | 0.640 | 0.920
 
 #### Note:
 
