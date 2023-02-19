@@ -58,6 +58,8 @@ UnderSample | OverSample | SimpleSample | DispropStratSample | PropStratSample
 --- | --- | --- | --- | ---
 0.620 | 0.953 | 0.933 | 0.640 | 0.920
 
+### KNN Classifier gave the best overall score for all samples with mean accuracy score of 0.94 which is better than most of the rest as some gave 1.0 accuracy for some samples but not for all.
+
 #### Note:
 
 I've taken mean of score as all were of the same scale and all have to be maximised.
